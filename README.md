@@ -74,6 +74,6 @@ using Newtonsoft.Json;
 
 ## Output:
 
-![.NET MAUI column chart with JSON data]()
+![.NET MAUI column chart with JSON data](https://user-images.githubusercontent.com/53489303/201058378-5a16e237-82ba-4032-b440-b02a091f0639.png)
 
 KB article - [How to pass a JSON array to .NET MAUI Chart (SfCartesianChart)?]()
