@@ -1,7 +1,6 @@
 # How to pass a JSON array to .NET MAUI Chart (SfCartesianChart)?
 
 This example illustrates how to bind the JSON data to the [.NET MAUI charts](https://www.syncfusion.com/maui-controls/maui-charts).
-
 JSON data cannot be bound directly to the [SfCartesianChart](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html?tabs=tabid-1), so you should deserialize the JSON data to a bindable format. Use the open-source NuGet [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) to serialize and deserialize the JSON objects.
 
 The following steps explain how to pass JSON data to the [SfCartesianChart](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.SfCartesianChart.html?tabs=tabid-1).
