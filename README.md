@@ -76,4 +76,4 @@ using Newtonsoft.Json;
 
 ![.NET MAUI column chart with JSON data](https://user-images.githubusercontent.com/53489303/201058378-5a16e237-82ba-4032-b440-b02a091f0639.png)
 
-KB article - [How to pass a JSON array to .NET MAUI Chart (SfCartesianChart)?]()
+For more details, refer to the KB on [how to pass a JSON array to .NET MAUI Chart (SfCartesianChart).](https://support.syncfusion.com/kb/article/12102/how-to-create-a-net-maui-sfcartesianchart-using-the-json-data)
